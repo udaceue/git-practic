@@ -1,0 +1,17 @@
+/* Global Style declaration */
+*{
+    margin:0px;
+    padding:0px;
+}
+
+/* Responsive Images declaration */
+
+img {
+    width:100%;
+}
+
+/* general stylesheet  */
+
+body {
+    background-color: #332f;
+}
